@@ -11,3 +11,4 @@ This is a fast solution for monitoring Vertica:
 
 The result is a stream of EXPORT_OBJECTS() time duration and transactions queues. 
 
+![](images/Monitoring_Vertica.png)
